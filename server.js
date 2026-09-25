@@ -2,7 +2,7 @@ import express from "express";
 
 // Light Cloud tells the app which port to listen on through PORT.
 // 8080 is the fallback for running it on your own machine.
-const PORT = 3000;
+const PORT = Number(process.env.PORT) || 8080;
 
 // Settings come from environment variables, so the same code runs
 // locally and in production with different values.
