@@ -1,5 +1,7 @@
 # tutorial-express-api
 
+[![Deploy to Light Cloud](https://light-cloud.com/button.svg)](https://console.light-cloud.com/new?repo=https://github.com/light-cloud-com/tutorial-express-api)
+
 A small Express 5 API used in the Light Cloud tutorial
 [Put a Node.js Express API online](https://blog.light-cloud.com/tutorials/deploy-an-express-api).
 
